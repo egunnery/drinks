@@ -1,0 +1,8 @@
+ls
+touch drinks.txt
+ls
+pwd
+
+
+
+/car
